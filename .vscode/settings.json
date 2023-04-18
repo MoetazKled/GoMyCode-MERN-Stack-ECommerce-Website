@@ -1,0 +1,10 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.semi": true,
+  "prettier.singleQuote": true,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#5A0A36",
+    "titleBar.activeBackground": "#7E0E4B",
+    "titleBar.activeForeground": "#FFFCFD"
+  }
+}
